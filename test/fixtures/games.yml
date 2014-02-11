@@ -2,12 +2,10 @@
 
 one:
   name: MyString
-  hits: MyString
-  integer: MyString
+  hits: 1
   rating: 9.99
 
 two:
   name: MyString
-  hits: MyString
-  integer: MyString
+  hits: 1
   rating: 9.99
